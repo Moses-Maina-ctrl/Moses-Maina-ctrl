@@ -13,5 +13,4 @@
                     
 ### [![GitHub Streak](https://streak-stats.demolab.com/?user=Moses-Maina-ctrl&theme=blood-dark)](https://git.io/streak-stats)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moses-maina-ctrl&show_icons=true&locale=en&layout=compact" alt="moses-maina-ctrl" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moses-maina-ctrl&show_icons=true&locale=en" alt="moses-maina-ctrl" /></p>
+
