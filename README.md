@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Moses-Maina-ctrl?tab=repositories](https://github.com/Moses-Maina-ctrl?tab=repositories)
-
+<img align="right" alt="coding" width="400" src="https://github.com/Moses-Maina-ctrl/Moses-Maina-ctrl/blob/main/meme.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/moses-maina-a81143162/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/moses-maina-a81143162/" height="30" width="40" /></a>
