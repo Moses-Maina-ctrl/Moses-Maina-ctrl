@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Moses Munene Maina</h1>
+<h1 align="center">Hi 👋, I'm Moses Munene </h1>
 <p align="center"><samp >( "👨‍💻 Full Stack Engineer" | "👷‍♂️  Graduate Civil Engineer"  )</samp></p>
   
 
