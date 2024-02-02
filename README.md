@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moses Munene </h1>
 <p align="center"><samp > "👨‍💻 Full Stack Engineer" | "👷‍♂️  Graduate Civil Engineer"  </samp></p>
   
-<img  align="right" alt="coding" width="400" src="https://github.com/Moses-Maina-ctrl/Moses-Maina-ctrl/blob/main/meme.gif">
+<img  align="right" alt="coding" width="300" src="https://github.com/Moses-Maina-ctrl/Moses-Maina-ctrl/blob/main/meme.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moses-maina-ctrl&label=Profile%20views&color=0e75b6&style=flat" alt="moses-maina-ctrl" /> </p>
 
 
