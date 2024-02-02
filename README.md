@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Moses Munene Maina</h1>
-<h3 align="center">Software Engineer || Graduate Civil Engineer</h3>
+samp>( "👨‍💻 Full Stack Engineer" | "👷‍♂️  Graduate Civil Engineer"  )</samp>
+  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moses-maina-ctrl&label=Profile%20views&color=0e75b6&style=flat" alt="moses-maina-ctrl" /> </p>
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Moses-Maina-ctrl?tab=repositories](https://github.com/Moses-Maina-ctrl?tab=repositories)
 <img align="right" alt="coding" width="400" src="https://github.com/Moses-Maina-ctrl/Moses-Maina-ctrl/blob/main/meme.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
