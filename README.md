@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moses Munene Maina</h1>
-<samp align="center">( "👨‍💻 Full Stack Engineer" | "👷‍♂️  Graduate Civil Engineer"  )</samp>
+<p align="center"><samp >( "👨‍💻 Full Stack Engineer" | "👷‍♂️  Graduate Civil Engineer"  )</samp></p>
   
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moses-maina-ctrl&label=Profile%20views&color=0e75b6&style=flat" alt="moses-maina-ctrl" /> </p>
