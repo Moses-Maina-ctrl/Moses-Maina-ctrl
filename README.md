@@ -2,7 +2,7 @@
 <p align="center"><samp > "👨‍💻 Full Stack Engineer" | "👷‍♂️  Graduate Civil Engineer"  </samp></p>
   
 <img  align="right" alt="coding" width="320" src="https://github.com/Moses-Maina-ctrl/Moses-Maina-ctrl/blob/main/meme.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moses-maina-ctrl&label=Profile%20views&color=0e75b6&style=flat" alt="moses-maina-ctrl" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=moses-maina-ctrl&label=Profile%20views&color=0e75b6&style=flat" alt="moses-maina-ctrl" /> </p></br>
 
 
 
