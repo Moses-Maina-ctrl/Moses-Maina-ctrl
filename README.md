@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moses Munene </h1>
 <p align="center"><samp > "👨‍💻 Full Stack Engineer" | "👷‍♂️  Graduate Civil Engineer"  </samp></p>
-  
-<img  align="right" alt="coding" width="320" src="https://github.com/Moses-Maina-ctrl/Moses-Maina-ctrl/blob/main/meme.gif">
+<img  align="right" alt="coding" width="360" src="https://github.com/Moses-Maina-ctrl/Moses-Maina-ctrl/blob/main/meme.gif">
+
 </br></br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
