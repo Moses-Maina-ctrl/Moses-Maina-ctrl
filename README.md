@@ -2,7 +2,7 @@
 <p align="center"><samp > "👨‍💻 Full Stack Engineer" | "👷‍♂️  Graduate Civil Engineer"  </samp></p>
 <img  align="right" alt="coding" width="350" src="https://github.com/Moses-Maina-ctrl/Moses-Maina-ctrl/blob/main/meme.gif">
 
-</br></br>
+
 ### Languages and Tools:
 <p align="left">
 
