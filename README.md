@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moses Munene </h1>
-<p align="center"><samp > "👨‍💻 Software Engineer at Indra"  </samp></p>
+<p align="center"><samp > "👨‍💻 Software Engineer at Minsait"  </samp></p>
 <img  align="right" alt="coding" width="340" src="https://github.com/Moses-Maina-ctrl/Moses-Maina-ctrl/blob/main/meme.gif">
 
 
